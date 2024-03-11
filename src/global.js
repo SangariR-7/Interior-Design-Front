@@ -1,0 +1,1 @@
+export const API = "https://interior-design-backend-ten.vercel.app"
